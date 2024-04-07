@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.User;
 import com.example.demo.service.UserService;
-
+//This is the normal rest controller
 @RestController
 @RequestMapping("/user")
 public class UserController {
